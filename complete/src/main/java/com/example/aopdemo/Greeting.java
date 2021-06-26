@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.aopdemo;
 
 public class Greeting {
 
